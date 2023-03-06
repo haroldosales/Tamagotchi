@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/Tamagotchi.csproj": {}
+    "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj": {}
   },
   "projects": {
-    "/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/Tamagotchi.csproj": {
+    "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/Tamagotchi.csproj",
+        "projectUniqueName": "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj",
         "projectName": "Tamagotchi",
-        "projectPath": "/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/Tamagotchi.csproj",
+        "projectPath": "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj",
         "packagesPath": "/home/haroldo/.nuget/packages/",
-        "outputPath": "/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/",
+        "outputPath": "/home/haroldo/RiderProjects/Tamagotchi2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/haroldo/.nuget/NuGet/NuGet.Config"

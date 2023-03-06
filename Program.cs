@@ -1,13 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Net;
-
-using Newtonsoft.Json;
-using System.Text;
-using System.Diagnostics;
-
-public class Program
+﻿public class Program
 {
     public static void Main(string[] args)
     {
@@ -25,20 +16,29 @@ public class Program
 
         string escolhar = Console.ReadLine();
         var escolha = new ServicesApi();
-        switch (escolhar)
-        {
-            case "1":
-                Console.WriteLine("--------------adotar um binhco-----------------");
-                Console.WriteLine(name + " digite o nome do pokemon que voce queira");
-                string x = Console.ReadLine();
-                escolha.dadosPork(x);
-                break;
-            case "2":
-                Console.WriteLine("--------------qual  binhco-----------------");
-                escolha.qualPokemonEscolher();
-                break;
+       
+            switch (escolhar)
+            {
+                case "1":
+                    Console.WriteLine("--------------adotar um binhco-----------------");
+                    Console.WriteLine(name + " digite o nome do pokemon que voce queira");
+                    string x = Console.ReadLine();
+                    escolha.dadosPork(x);
+                    break;
+                case "2":
+                    Console.WriteLine("--------------qual  binhco-----------------");
+                    Console.WriteLine("Bulbasaur");
+                    Console.WriteLine("Ivysaur");
+                    break;
+            
+                case "3":
+                    Console.Clear();
+                    break;
 
-        }
+            }
+        
+      
+        
     }
 
 }

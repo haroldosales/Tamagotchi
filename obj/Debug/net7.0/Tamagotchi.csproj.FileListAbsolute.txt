@@ -1,0 +1,17 @@
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/bin/Debug/net7.0/Tamagotchi
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/bin/Debug/net7.0/Tamagotchi.deps.json
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/bin/Debug/net7.0/Tamagotchi.runtimeconfig.json
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/bin/Debug/net7.0/Tamagotchi.dll
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/bin/Debug/net7.0/Tamagotchi.pdb
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.csproj.AssemblyReference.cache
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.GeneratedMSBuildEditorConfig.editorconfig
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.AssemblyInfoInputs.cache
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.AssemblyInfo.cs
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.csproj.CoreCompileInputs.cache
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.csproj.CopyComplete
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.dll
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/refint/Tamagotchi.dll
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.pdb
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/Tamagotchi.genruntimeconfig.cache
+/home/haroldo/Documents/Project/7ofDay/bicinhoPokemon/Tamagotchi/obj/Debug/net7.0/ref/Tamagotchi.dll

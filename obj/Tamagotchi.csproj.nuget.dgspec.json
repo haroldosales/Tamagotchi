@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj": {}
+    "/home/haroldo/dev/Tamagotchi2/Tamagotchi.csproj": {}
   },
   "projects": {
-    "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj": {
+    "/home/haroldo/dev/Tamagotchi2/Tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj",
+        "projectUniqueName": "/home/haroldo/dev/Tamagotchi2/Tamagotchi.csproj",
         "projectName": "Tamagotchi",
-        "projectPath": "/home/haroldo/RiderProjects/Tamagotchi2/Tamagotchi.csproj",
+        "projectPath": "/home/haroldo/dev/Tamagotchi2/Tamagotchi.csproj",
         "packagesPath": "/home/haroldo/.nuget/packages/",
-        "outputPath": "/home/haroldo/RiderProjects/Tamagotchi2/obj/",
+        "outputPath": "/home/haroldo/dev/Tamagotchi2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/haroldo/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

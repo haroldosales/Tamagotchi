@@ -24,4 +24,22 @@ public class ServicesApi
         }
     }
 
+
+
+    public void dadosPor(string name)
+    {
+        using (var client = new HttpClient())
+        {
+            client.BaseAddress = new Uri("https://pokeapi.co/api/v2/pokemon/");
+
+            HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Get, name);
+            var response = client.Send(request);
+
+            var pok = JsonSerializer.Deserialize<Pokemon>(response.Content.ReadAsStringAsync().Result);
+            Console.WriteLine(pok.name);
+
+
+        }
+    }
+
 }

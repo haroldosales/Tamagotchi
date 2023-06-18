@@ -6,43 +6,50 @@
 
         Console.WriteLine("Qual é seu nome?");
         string name = Console.ReadLine();
+
         Console.WriteLine("--------------Menu-----------------");
 
         Console.WriteLine(name + ", o que voce Deseja");
-
         Console.WriteLine(@"1 - Adotar um mascote virutal");
+
         Console.WriteLine(@"2 - ver os  mascote virutal");
         Console.WriteLine(@"3 - Sair");
 
+        string funcao = Console.ReadLine();
+        if (funcao == funcao)
+        {
+            escolha.dadosPor("1");
+            escolha.dadosPor("2");
+            escolha.dadosPor("3");
+            Console.WriteLine("--------------Menu-----------------");
 
+            Console.WriteLine(name + ", o que voce Deseja");
+            Console.WriteLine(@"1 - Adotar um mascote virutal");
 
-        string escolhar = Console.ReadLine();
-        var escolha = new ServicesApi();
-       
-        
-            switch (escolhar)
+            Console.WriteLine(@"2 - ver os  mascote virutal");
+            Console.WriteLine(@"3 - Sair");
+
+            string funcao = Console.ReadLine();
+            switch (funcao)
             {
+
                 case "1":
-                    Console.WriteLine("--------------adotar um binhco-----------------");
-                    Console.WriteLine(name + " digite o nome do pokemon que voce queira");
-                    string x = Console.ReadLine();
-                    escolha.dadosPork(x);
+                    funcao = Console.ReadLine();
+
+                    escolha.dadosPork(funcao);
                     break;
                 case "2":
-                    Console.WriteLine("--------------qual  binhco-----------------");
-                    Console.WriteLine("Bulbasaur");
-                    Console.WriteLine("Ivysaur");
+                    escolha.dadosPor("1");
+                    escolha.dadosPor("2");
+                    escolha.dadosPor("3");
+
                     break;
-                    
                 case "3":
-                    Console.Clear();
                     break;
 
             }
-        
-        
-      
-        
-    }
 
+        }
+
+    }
 }

@@ -24,8 +24,6 @@ public class ServicesApi
         }
     }
 
-
-
     public void dadosPor(string name)
     {
         using (var client = new HttpClient())

@@ -1,7 +1,7 @@
-﻿public class Program
-{
-    public static void Main(string[] args)
-    {
+﻿
+
+
+        ServicesApi escolhar  = new ServicesApi();
         Console.WriteLine("Bem vindo ao Tamogtchi ");
 
         Console.WriteLine("Qual é seu nome?");
@@ -18,9 +18,9 @@
         string funcao = Console.ReadLine();
         if (funcao == funcao)
         {
-            escolha.dadosPor("1");
-            escolha.dadosPor("2");
-            escolha.dadosPor("3");
+            escolhar.dadosPor("1");
+            escolhar.dadosPor("2");
+            escolhar.dadosPor("3");
             Console.WriteLine("--------------Menu-----------------");
 
             Console.WriteLine(name + ", o que voce Deseja");
@@ -29,19 +29,20 @@
             Console.WriteLine(@"2 - ver os  mascote virutal");
             Console.WriteLine(@"3 - Sair");
 
-            string funcao = Console.ReadLine();
+             funcao = Console.ReadLine();
+
             switch (funcao)
             {
 
                 case "1":
                     funcao = Console.ReadLine();
 
-                    escolha.dadosPork(funcao);
+                    escolhar.dadosPork(funcao);
                     break;
                 case "2":
-                    escolha.dadosPor("1");
-                    escolha.dadosPor("2");
-                    escolha.dadosPor("3");
+                    escolhar.dadosPor("1");
+                    escolhar.dadosPor("2");
+                    escolhar.dadosPor("3");
 
                     break;
                 case "3":
@@ -51,5 +52,3 @@
 
         }
 
-    }
-}

@@ -24,7 +24,7 @@ public class ServicesApi
         }
     }
 
-    public void dadosPor(string name)
+    public void OneOne(string name)
     {
         using (var client = new HttpClient())
         {

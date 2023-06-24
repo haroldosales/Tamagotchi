@@ -18,9 +18,9 @@
         string funcao = Console.ReadLine();
         if (funcao == funcao)
         {
-            escolhar.dadosPor("1");
-            escolhar.dadosPor("2");
-            escolhar.dadosPor("3");
+            escolhar.OneOne("1");
+            escolhar.OneOne("2");
+            escolhar.OneOne("3");
             Console.WriteLine("--------------Menu-----------------");
 
             Console.WriteLine(name + ", o que voce Deseja");
@@ -35,14 +35,18 @@
             {
 
                 case "1":
+                    Console.WriteLine(name + ", o que voce Deseja");
+
                     funcao = Console.ReadLine();
 
                     escolhar.dadosPork(funcao);
                     break;
                 case "2":
-                    escolhar.dadosPor("1");
-                    escolhar.dadosPor("2");
-                    escolhar.dadosPor("3");
+                    escolhar.OneOne("1");
+                    escolhar.OneOne("2");
+                    escolhar.OneOne("3");
+                    Console.WriteLine(name + ", o que voce Deseja");
+
 
                     break;
                 case "3":

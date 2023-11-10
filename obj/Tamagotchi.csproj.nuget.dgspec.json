@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/haroldo/ambient/git/Tamagotchi2/Tamagotchi.csproj": {}
+    "C:\\Users\\harol\\source\\repos\\Tamagotchi2\\Tamagotchi.csproj": {}
   },
   "projects": {
-    "/home/haroldo/ambient/git/Tamagotchi2/Tamagotchi.csproj": {
+    "C:\\Users\\harol\\source\\repos\\Tamagotchi2\\Tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/haroldo/ambient/git/Tamagotchi2/Tamagotchi.csproj",
+        "projectUniqueName": "C:\\Users\\harol\\source\\repos\\Tamagotchi2\\Tamagotchi.csproj",
         "projectName": "Tamagotchi",
-        "projectPath": "/home/haroldo/ambient/git/Tamagotchi2/Tamagotchi.csproj",
-        "packagesPath": "/home/haroldo/.nuget/packages/",
-        "outputPath": "/home/haroldo/ambient/git/Tamagotchi2/obj/",
+        "projectPath": "C:\\Users\\harol\\source\\repos\\Tamagotchi2\\Tamagotchi.csproj",
+        "packagesPath": "C:\\Users\\harol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harol\\source\\repos\\Tamagotchi2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/haroldo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\harol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jMptyJWKE63BDAZ2qDxhj5yGTn7GUItR9HoF2Vkq3wWqlR42l1CaowraRBIqzPV0/MlLJisH6nTolaySzzInzw==",
+  "dgSpecHash": "ZF+my+TlBMg3XJ+wIMpsX59Ai0k0sgAqTRmVqyq01CdOWghyxCOCJS4E+WTvxsoJEL8XrRcF1yMeAOMaLmWPWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harol\\source\\repos\\Tamagotchi2\\Tamagotchi.csproj",
+  "projectFilePath": "/home/haroldo/sources/Tamagotchi2/Tamagotchi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\harol\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "/home/haroldo/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }

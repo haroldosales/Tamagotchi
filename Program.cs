@@ -30,9 +30,12 @@
                     escolhar.dadosPork(pokemon);
                     break;
                 case "2":
-                    escolhar.OneOne("1");
-                    escolhar.OneOne("2");
-                    escolhar.OneOne("3");
+                for(int i =1; i <=10; i++){
+                    pokemon = i.ToString();
+
+                           escolhar.OneOne(pokemon);
+                }
+                 
                     Console.WriteLine(name + ", o que voce Deseja");
 
 

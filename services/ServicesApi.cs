@@ -18,7 +18,7 @@ public class ServicesApi
             Console.WriteLine($"Nome do Pokemon: " + pok.name +
                               "\r\n Altura: " + pok.height
                               + "\r\n Peso: " + pok.weight
-                              + "\r\n Habilidade: " + pok.Getabilities().All());
+                              + "\r\n Habilidade: " + pok.abilities.ToArray().ToString());
 
 
         }

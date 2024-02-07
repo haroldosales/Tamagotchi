@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/haroldo/sources/Tamagotchi2/Tamagotchi.csproj",
+      "projectUniqueName": "/home/haroldo/Documents/coding/Tamagotchi2/Tamagotchi.csproj",
       "projectName": "Tamagotchi",
-      "projectPath": "/home/haroldo/sources/Tamagotchi2/Tamagotchi.csproj",
+      "projectPath": "/home/haroldo/Documents/coding/Tamagotchi2/Tamagotchi.csproj",
       "packagesPath": "/home/haroldo/.nuget/packages/",
-      "outputPath": "/home/haroldo/sources/Tamagotchi2/obj/",
+      "outputPath": "/home/haroldo/Documents/coding/Tamagotchi2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/haroldo/.nuget/NuGet/NuGet.Config"
@@ -107,12 +107,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,6 +6,11 @@
         string? pokemon = "null";
 
         Console.WriteLine("Bem vindo ao Tamogtchi ");
+        System.Console.WriteLine("------------------------------");
+        System.Console.WriteLine("------------------------------");
+        System.Console.WriteLine("------------------------------");
+
+        System.Console.WriteLine("------------------------------");
 
         Console.WriteLine("Qual é seu nome?");
         string? name = Console.ReadLine();
@@ -28,6 +33,7 @@
                     pokemon = Console.ReadLine();
 
                     escolhar.dadosPork(pokemon);
+
                     break;
                 case "2":
                 for(int i =1; i <=10; i++){
@@ -37,7 +43,9 @@
                 }
                  
                     Console.WriteLine(name + ", o que voce Deseja");
+            pokemon = Console.ReadLine();
 
+                    escolhar.dadosPork(pokemon);
 
                     break;
                 case "3":
